@@ -13,7 +13,7 @@
   "author": "Wil Neeley <william.neeley@gmail.com> (https://github.com/Xaxis)",
   "license": {
     "type": "MIT",
-    "url": "https://github.com/Xaxis/npm-boilerplate#LICENSE"
+    "url": "https://github.com/Xaxis/npm-boilerplate/blob/master/LICENSE.txt"
   },
   "bugs": {
     "url": "https://github.com/Xaxis/npm-boilerplate/issues"
