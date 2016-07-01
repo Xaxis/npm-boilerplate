@@ -29,3 +29,16 @@ During development use the grunt task runner to lint, test, concatenate, and min
 ```
 grunt watch
 ```
+
+You can additionally run any of your tests by running.
+
+```
+npm test
+```
+
+## Development
+
+Your projects should work fine as instances of AMD or CommonJS and can easily be published to npm once you've created
+something worth contributing.
+
+See [https://quickleft.com/blog/creating-and-publishing-a-node-js-module/](https://quickleft.com/blog/creating-and-publishing-a-node-js-module/)
