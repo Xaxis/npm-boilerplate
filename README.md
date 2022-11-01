@@ -1,9 +1,5 @@
 # npm-boilerplate
 
-## Author
-
-Wil Neeley ( [@wilneeley](http://twitter.com/wilneeley) / [github.com](https://github.com/Xaxis) )
-
 ## Summary
 
 A boilerplate for rapidly spinning up NPM modules.
